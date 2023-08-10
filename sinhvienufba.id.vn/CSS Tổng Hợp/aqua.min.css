@@ -1531,7 +1531,6 @@ select.form-control:not([multiple]):required:invalid>optgroup {
     --nav-color: black;
     --nav-active-color: var(--primary-color);
     --nav-inactive-color: rgba(0, 0, 0, 0.2);
-    display: flex;
     margin: 0;
     padding: 0;
     list-style-type: none;
