@@ -1545,7 +1545,6 @@ select.form-control:not([multiple]):required:invalid>optgroup {
 .nav .nav-item a {
     position: relative;
     display: flex;
-    /* padding:1.5rem; */
     color: var(--nav-color);
     text-decoration: none;
     transition: .4s cubic-bezier(.165,.84,.44,1)
